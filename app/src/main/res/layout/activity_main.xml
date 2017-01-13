@@ -8,6 +8,7 @@
         android:id="@+id/button_Id"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_margin="10dp"
         android:text="获取网络中的消息" />
     <EditText
         android:id="@+id/editText_Id"
